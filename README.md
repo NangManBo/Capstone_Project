@@ -10,14 +10,8 @@
 | 배성민 | 백엔드 | Spring Boot |
 | 송성민 | 백엔드 | Spring Boot |
 
-아이디어 설명: 
-
-API 링크: 
-
-`Spring server`
+`Spring Boot`
 - version : 2.7.16
 - java : 11
 - Gradle - Groovy 
 - Java
-
-`배포`
