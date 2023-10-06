@@ -4,8 +4,8 @@
 | ------ | ------ | ------ |
 | 최승빈 | 프론트 | React Native |
 | 김보성 | 프론트 | React Native |
-| 송성민 | 프로트 | React Native |
-| 장혁수 | 프로트 | React Native |
+| 송성민 | 프론트 | React Native |
+| 장혁수 | 프론트 | React Native |
 | 한동근 | 백엔드 | Spring Boot |
 | 배성민 | 백엔드 | Spring Boot |
 | 송성민 | 백엔드 | Spring Boot |
